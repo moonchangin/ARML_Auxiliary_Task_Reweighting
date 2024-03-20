@@ -3,6 +3,8 @@ Code for our paper "[Auxiliary Task Reweighting for Minimum-data Learning](https
 
 Currently this repo contains the code for semi-supervised learning (SSL) experiments. Please refer to the README in the corresponsing directory.
 
+**I am updating the code to be compatible with PyTorch version 2 and other recent updates.**
+
 If you find this repo useful, please consider citing:
 ```
 @article{shi2020auxiliary,
